@@ -1,0 +1,23 @@
+.h1_p{
+	width: 100px;
+	background:blue;
+	color:#fff;
+	margin-bottom: 100px;
+}
+h2{
+	background: green;
+	color: #fff;
+}
+.header2{
+	padding: 40px 40px;
+	
+	}
+#par{
+	margin-left: 100px;
+}
+h1, span{
+	color: red;
+}
+li{
+	border:1px solid #000;
+}
